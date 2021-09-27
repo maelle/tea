@@ -1,0 +1,13 @@
+Package: tea
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Date: 2021-09-27
+Authors@R: 
+    person("Maëlle Salmon", , , "maelle.salmon@yahoo.se", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 42
+context: fledge-example
